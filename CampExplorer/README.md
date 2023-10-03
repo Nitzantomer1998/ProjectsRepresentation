@@ -1,1 +1,1 @@
-Folder containing the CampExplorer Preview Pictures
+Folder containing the CampExplorer Preview Pictures.
