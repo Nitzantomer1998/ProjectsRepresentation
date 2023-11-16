@@ -1,1 +1,1 @@
-Test
+Folder containing the StudyBuddy Preview Pictures.
